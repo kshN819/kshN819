@@ -14,11 +14,6 @@
   - **Trying to bulid and apply my career as data scientist by learning AI engineering in WooriFISA**
   - **Done some Thesis Papers analysis in the field of Microeconomics and Econometrix**
 
-```python
-
-name = '김승현'
-print('hello')
-```
 
 [네이버로 가기](https://www.naver.com/)
 
