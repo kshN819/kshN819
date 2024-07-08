@@ -9,7 +9,7 @@
 **Let's gooooo!!!!**
 
 
-## **Info**
+## **Personal Info**
   - **Major: Econ & Stat**
   - **Trying to bulid and apply my career as data scientist by learning AI engineering in WooriFISA**
 
