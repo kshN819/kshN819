@@ -1,8 +1,7 @@
 
 <!-- Header -->
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Coding%20Is%20The%20Best!&fontAlign=40&fontAlignY=40&color=gradient)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Coding+Is+The+Best%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=happy+coding+day&descSize=20&descAlign=50&descAlignY=60)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
