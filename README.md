@@ -9,19 +9,18 @@
 **Let's gooooo!!!!**
 
 
- 
+
+| name  | 1  | 2 | 
+|-------|----|----|
+|  age  | 29 |    |   
+| major |econ|stat|
+|       |    |    | 
 
 ```python
 
 name = '김승현'
 print('hello')
 ```
-
-| name  | 1  | 2 | 
-|-------|----|----|
-|  age  | 29 |    |   
-| major |econ|stat|
-|       |    |    |  
 
 [네이버로 가기](https://www.naver.com/)
 
