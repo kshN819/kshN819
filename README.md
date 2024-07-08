@@ -40,6 +40,9 @@ print('hello')
 ### 🚌 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshN819&layout=compact)
 
+### 🚩 Algorithm Ranking
+[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=)](https://solved.ac/profile/)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
