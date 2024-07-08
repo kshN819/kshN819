@@ -56,16 +56,13 @@ print('hello')
 ![고양이입니다](https://i.imgur.com/knCvaRQ.png)
 
 [![고양이입니다](https://i.imgur.com/knCvaRQ.png)](https://www.naver.com/)"
+
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
-![RStudio](https://img.shields.io/badge/rstudio-75AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
+![RStudio](https://img.shields.io/badge/rstudio-75AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visualstudiocode-000000.svg?&style=for-the-badge) 
 
 **🛠️ Infra and Tools**
 ![RStudio](https://img.shields.io/badge/rstudio-75AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
-<!--
-**kshN819/kshN819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
