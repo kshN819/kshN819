@@ -9,12 +9,7 @@
 **Let's gooooo!!!!**
 
 
-
-| name  | 1  | 2 | 
-|-------|----|----|
-|  age  | 29 |    |   
-| major |econ|stat|
-|       |    |    | 
+## **Info**
 
 ```python
 
