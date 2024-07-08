@@ -14,7 +14,7 @@
 ![RStudio](https://img.shields.io/badge/rstudio-75AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 
 **🛠️ Infra and Tools**
-![RStudio](https://img.shields.io/badge/rstudio-75AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visualstudio code-000000.svg?&style=for-the-badge) 
+![RStudio](https://img.shields.io/badge/rstudio-75AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 <!--
 **kshN819/kshN819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
