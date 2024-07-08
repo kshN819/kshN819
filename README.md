@@ -12,6 +12,7 @@
 ## **Personal Info**
   - **Major: Econ & Stat**
   - **Trying to bulid and apply my career as data scientist by learning AI engineering in WooriFISA**
+  - **Done some Thesis Papers analysis in the field of Microeconomics and Econometrix**
 
 ```python
 
