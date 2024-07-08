@@ -8,36 +8,7 @@
 ### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 김승현입니다!
 **데이터 사이언티스트로서의 첫걸음,, 아자아자!!**
 
-"# 제일 큰 제목 
-<h1>제일 큰 제목</h1>
 
-###### 제일 작은 제목
-일반 글자랑 확인하시면 
-
---- 
-***
-
-__진하게__
-**붙여서 앞뒤로 써주세요**
-** 진하게 ** 이건 안 먹힙니다
-~~이건 취소~~
-***굵고 기울기***
-*걍 기울기*
-
-1. 목차 1
-2. 목차 2
-     1. 하위 제목
-3. 시프트 + 탭으로 들여쓰기 해제
-
-> 지금은 마크다운을 다룹니다
->> 안으로 하나 더 들어가서 나올겁니다.
->
-
-- 순서 없는 목록
-  - 순서 없는 목록의 하위 목록
-    - 그 아래 목록
-    - 그 아래 목록
-  - 순서 없는 목록의 하위 목록 2
  
 한줄 코드는 `print('hello world')` 입니다.
 
@@ -67,7 +38,9 @@ print('hello')
 ![RStudio](https://img.shields.io/badge/rstudio-75AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 
 ### 🚌 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=SeungHyun Kim)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshN819&layout=compact)
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
