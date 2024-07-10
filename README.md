@@ -28,10 +28,10 @@
 </br>![RStudio](https://img.shields.io/badge/rstudio-75AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visualstudiocode-000000.svg?&style=for-the-badge)</br> ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![Slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white) 
 
 ### 🚌 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy00819&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshN819&layout=compact)
 
 ### 🚩 Algorithm Ranking
-[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=)](https://solved.ac/profile/)
+[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=)](https://solved.ac/profile/happy00819)
 
 
 - 🔭 I’m currently working on ...
