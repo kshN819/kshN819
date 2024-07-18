@@ -31,7 +31,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshN819&layout=compact)
 
 ### 🚩 Algorithm Ranking
-[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=)](https://solved.ac/profile/happy00819)
+[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=happy00819)](https://solved.ac/profile/happy00819)
 
 
 - 🔭 I’m currently working on ...
